@@ -43,6 +43,6 @@ git restore . ("." significa tudo)
 ### Ver histórico de commits
 git log --oneline
 
-📚 # Referências
+# 📚 Referências
 
 [Digital Innovation One](https://www.dio.me/)
