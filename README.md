@@ -26,13 +26,13 @@ git add .
 git commit -m "Descreva oque foi feito nesse processo"
 ### Enviar todas as mudanças para o GitHub
 git push
-# Se for na primeira vez
+### Se for na primeira vez
 git push origin main
 ### Pegar as atualizações alheias
 git pull
 ### Criar uma nova branch ou (ramo) - Boa prática
 git checkout -b nome-da-sua-branch
-# Versão mais nova do Git
+### Versão mais nova do Git
 git switch -c nome-da-sua-branch
 ### Trocar de branch
 git checkout nome-da-branch
