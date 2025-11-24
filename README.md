@@ -14,7 +14,34 @@ Documentação do [GitHub](https://github.com/Victor480-phython/Projects-Dio.git
 ## Aula	Resumo
 Gravando Alterações no Repositório Local	Acessar Resumo
 ## 🛠 Comandos Importantes
-git init
+### Baixar pela primeira vez
+git clone URL do GitHub
+cd nome-do-projeto
+### Analisar oque foi alterado
+git status
+### Adicionar arquivos para o próximo commit
+git add nome-do-arquivo
+git add .
+### Salvar as mudanças (commit)
+git commit -m "Descreva oque foi feito nesse processo"
+### Enviar todas as mudanças para o GitHub
+git push
+# Se for na primeira vez
+git push origin main
+### Pegar as atualizações alheias
+git pull
+### Criar uma nova branch ou (ramo) - Boa prática
+git checkout -b nome-da-sua-branch
+# Versão mais nova do Git
+git switch -c nome-da-sua-branch
+### Trocar de branch
+git checkout nome-da-branch
+git switch nome-da-branch
+### Desfazer mudança não commitada
+git restore nome-do-arquivo
+git restore . ("." significa tudo)
+### Ver histórico de commits
+git log --oneline
 
 📚 Referências
 
