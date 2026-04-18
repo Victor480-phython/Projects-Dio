@@ -39,7 +39,7 @@ Relatório base com o modelo de dados financeiro de amostra. Serve como foundati
 ## ⚙️ PBI_DAX.pbix
 Tipo: Power BI
 Projeto focado exclusivamente em DAX (Data Analysis Expressions). Demonstração prática de medidas, parâmetros e cálculos estatísticos avançados utilizados nos relatórios.
-## 📋 Relatorio Completo com tudo.pbix
+##📋 Relatorio Completo com tudo.pbix
 Tipo: Power BI
 Relatório completo que integra todos os dados, visualizações, segmentadores e métricas DAX. Oferece uma visão 360° do negócio, ideal para análises abrangentes.
 ## 🎯 Relatorio para decisões gerenciais parametros.pbix
@@ -47,7 +47,50 @@ Tipo: Power BI
 Relatório otimizado para tomada de decisão gerencial. Utiliza parâmetros interativos para simulações de cenários e análises dinâmicas, facilitando o suporte estratégico.
 ## 🔍 Relatório com Segmentadores Financial Sample.pbix
 Tipo: Power BI
-Relatório que utiliza segmentadores (slicers) avançados aplicados ao modelo Financial Sample. Perfeito para filtragem rápida e visualização segmentada dos dados
+Este projeto consiste em um relatório interativo desenvolvido no Power BI, utilizando o famoso dataset Financial Sample, fornecido como exemplo para análises financeiras e práticas de visualização.
+
+O **objetivo** foi criar um relatório claro, intuitivo e visualmente atrativo, permitindo explorar insights financeiros de forma simples e dinâmica.
+
+### 🚀 Funcionalidades do Relatório
+### ✔️ Diversos tipos de gráficos
+
+Foram criados gráficos variados para facilitar a análise dos dados, como:
+- Gráficos de área
+- Gráficos de barra/coluna
+- Gráficos de linha
+- Cartões (KPIs)
+Cada visual foi configurado para permitir comparações rápidas e visualização de tendências.
+
+### ✔️ Segmentação de dados (Slicers)
+
+Para tornar o relatório mais dinâmico e interativo, foram utilizados:
+- Segmentadores por País
+- Segmentadores por Ano
+- Segmentadores por Produto
+- Outros filtros essenciais para facilitar o drill-down dos dados
+
+Essas segmentações permitem ao usuário explorar os dados de maneira personalizada.
+
+### ✔️ 3 páginas de análise
+
+O relatório foi dividido em três páginas, cada uma focada em um aspecto da análise financeira:
+- Visão Geral – KPIs principais, lucro, vendas e tendências
+- Análise por Produto e Segmento – performance detalhada
+- Análise Geográfica – mapa e insights regionais
+
+### ✔️ Navegador de páginas
+
+Para melhorar a experiência do usuário, foi incluído um navegador de páginas interativo que facilita a troca entre as diferentes seções do relatório.
+
+### ✔️ Mapa Interativo
+
+Um mapa foi adicionado para visualizar as vendas por localização geográfica, permitindo identificar:
+- Regiões com melhor desempenho
+- Distribuição de receita por país
+- Mercado mais lucrativo
+### 🛠️ Ferramentas Utilizadas
+
+Power BI Desktop
 
 > 📌 **Como usar:** Basta baixar o arquivo `.pbix` e abrir diretamente no **Power BI Desktop**. O arquivo `.xlsx` abre normalmente no Excel
 
