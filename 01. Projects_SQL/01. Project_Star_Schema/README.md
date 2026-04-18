@@ -1,6 +1,6 @@
 # Relat-rio-completo
 ## 📒 Descrição
-Um projeto com a finalidade de demonstrar o modelo de dados "Star Schema" no MySql Workbench, passando por diversas funções básicas e metodologia ACID a fim de garantir boas práticas do código e manter estável para fins de debug
+Um projeto com a finalidade de demonstrar o modelo de dados "Star Schema" no MySql Workbench, passando por diversas funções básicas e metodologia ACID a fim de garantir boas práticas do código e manter estável para fins de debug, o projeto consta também com um relatório completo do qual meu dispositivo não possui capacidade técnica para a sincronização do MySql Workbench e meu Power BI diretamente.
 
 ## 🤖 Tecnologias Utilizadas
 MySql Workbench, Excel, Git e Github
@@ -12,4 +12,4 @@ Por 8 horas desenvolvi com meus meios de aprendizagens no ano passado uma estrut
 Uma base bem estruturada, com a modelagem Star Schema
 
 ## 💭 Reflexão (Opcional)
-A IA foi utilizada apenas para corrigir alguns erros e analisa-los, porém converti o arquivo para uma base excel para o desenvolvimento de outro projeto
+A IA foi utilizada apenas para corrigir alguns erros e analisa-los, porém converti o arquivo para uma base excel para o desenvolvimento do Projeto do Power BI
