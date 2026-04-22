@@ -1,9 +1,9 @@
 # Projetos Excel e Power BI - DIO
 
 ![GitHub repo](https://img.shields.io/badge/Status-Concluído-success)
-![Power BI](https://img.shields.io/badge/Power%20BI-FF0000?style=flat&logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FFCD57?style=flat&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-00B4FF?style=flat&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FFAD08?style=flat&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00B4FF?style=flat&logo=SQL&logoColor=white)
 
 **Repositório:** `Projects-Dio / 02. Projects_Excel_PBI`
