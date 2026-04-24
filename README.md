@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FFAD08?style=flat&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00B4FF?style=flat&logo=SQL&logoColor=white)
-![Python](https://img.shields.io/badge/python-FFAD08?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFAD08?style=flat&logo=python&logoColor=black)
 
 **Repositório:** `Projects-Dio`
 
