@@ -6,7 +6,7 @@
 ![DAX](https://img.shields.io/badge/DAX-FFAD08?style=flat&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00B4FF?style=flat&logo=SQL&logoColor=white)
 
-**Repositório:** `Projects-Dio / 02. Projects_Excel_PBI`
+**Repositório:** `Projects-Dio`
 
 Repositório de projetos desenvolvidos durante o curso da **DIO**!  
 Aqui você encontra relatórios em **Excel** e **Power BI** focados em análises financeiras, de vendas e suporte à tomada de decisão gerencial
