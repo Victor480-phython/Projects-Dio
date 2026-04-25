@@ -145,13 +145,9 @@ Masterpiece, best possible quality, photorealistic, hyperrealistic, zero artifac
 ## 🧐 Processo de Criação
 Após escolher a imagem da vez, foi necessário que eu desenvolvesse um Prompt através da Engenharia de Prompt para passar para a inteligência artificial refinasse e fizesse oque eu queria baseado no que foi pedido, após isso, foi repassado para um Text to Image e para finalizar com o Output do Text to Image foi repassado para uma IA Image to Video
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+# Projetos Py
 
-<img src="https://assets.dio.me/https://github.com/Victor480-phython/Projects-Dio/blob/main/04.%20Project_IA/Video_Criado_Keevx_image_to_video.mp4.mp4">
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ---
 
 ## 📬 Contato
