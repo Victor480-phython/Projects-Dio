@@ -41,10 +41,13 @@ def main():
     print("🚀 INICIANDO PIPELINE ETL + ANÁLISE DE VENDAS 2023")
     print("="*70 + "\n")
     
+    # Define o diretório base do projeto (um nível acima de src/)
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    
     # ============================================================
     # 1. EXTRACT - Extração
     # ============================================================
-    caminho_csv = os.path.join("database", "vendas_2023.csv")
+    caminho_csv = os.path.join(BASE_DIR, "database", "vendas_2023.csv")
     dados_brutos = ler_csv(caminho_csv)
     
     # ============================================================
@@ -55,8 +58,8 @@ def main():
     # ============================================================
     # 3. LOAD - Carga
     # ============================================================
-    carregar_sqlite(dados_limpos)
-    carregar_csv(dados_limpos)
+    carregar_sqlite(dados_limpos, os.path.join(BASE_DIR, "database", "vendas.db"))
+    carregar_csv(dados_limpos, os.path.join(BASE_DIR, "database", "vendas_transformadas.csv"))
     
     # ============================================================
     # 4. ANALYZE - Análise
