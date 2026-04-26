@@ -15,7 +15,6 @@ Métricas calculadas:
 from typing import List, Dict
 from collections import defaultdict
 
-
 def calcular_metricas_gerais(dados: List[Dict]) -> Dict:
     """
     Calcula métricas gerais do negócio.
@@ -63,7 +62,8 @@ def ranking_por_categoria(dados: List[Dict]) -> List[Dict]:
         }
         for cat, info in categorias.items()
     ]
-    
+    #"Aqui está significando que ele está ordenando a lista de forma decrescente"
+    #"Para cada elemento x da lista o lambda x retorna x["
     resultado.sort(key=lambda x: x['total_vendas'], reverse=True)
     print("[ANALYZE] 📊 Ranking por categoria calculado")
     return resultado
