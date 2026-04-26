@@ -13,8 +13,8 @@
 # DICA: Use f-string (f"texto {variavel}") para interpolação.
 
 # RESPOSTA:
-# nome = "Victor"
-# print(f"Olá, {nome}! Bem-vindo ao Data Analyst.")
+nome = "Victor"
+print(f"Olá, {nome}! Bem-vindo ao Data Analyst.")
 # EXPLICAÇÃO: A f-string permite injetar variáveis diretamente no texto.
 #   Isso é 60% mais rápido que concatenar com + e muito mais legível.
 
@@ -26,12 +26,12 @@
 # DICA: Soma as notas e divide por 3. Use if/else para a lógica de aprovação.
 
 # RESPOSTA:
-# nota1, nota2, nota3 = 8.5, 7.0, 9.0
-# media = (nota1 + nota2 + nota3) / 3
-# if media >= 7:
-#     print(f"Aprovado! Média: {media:.2f}")
-# else:
-#     print(f"Reprovado. Média: {media:.2f}")
+nota1, nota2, nota3 = 8.5, 7.0, 9.0
+media = (nota1 + nota2 + nota3) / 3
+if media >= 7:
+     print(f"Aprovado! Média: {media:.2f}")
+else:
+     print(f"Reprovado. Média: {media:.2f}")
 # EXPLICAÇÃO: O operador / retorna float em Python 3. O :.2f formata com 2 decimais.
 #   if/else é o controle de fluxo básico para decisões.
 
