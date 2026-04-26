@@ -5,8 +5,9 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FFAD08?style=flat&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00B4FF?style=flat&logo=SQL&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFAD08?style=flat&logo=python&logoColor=black)
 
-**Repositório:** `Projects-Dio / 02. Projects_Excel_PBI`
+**Repositório:** `Projects-Dio`
 
 Repositório de projetos desenvolvidos durante o curso da **DIO**!  
 Aqui você encontra relatórios em **Excel** e **Power BI** focados em análises financeiras, de vendas e suporte à tomada de decisão gerencial
@@ -31,22 +32,22 @@ Além disso, criei **parâmetros e métricas na linguagem DAX** (Data Analysis E
 
 Cada arquivo está separado com uma descrição clara para facilitar a navegação e o entendimento.
 
-## 📊 Dashboard_Vendas_Xbox.xlsx
+# 📊 Dashboard_Vendas_Xbox.xlsx
 Tipo: Microsoft Excel
 Dashboard interativo de análise de vendas do produto Xbox. Contém gráficos dinâmicos, tabelas dinâmicas e KPIs de desempenho para monitoramento rápido das vendas.
-## 📈 Financial Sample.pbix
+# 📈 Financial Sample.pbix
 Tipo: Power BI
 Relatório base com o modelo de dados financeiro de amostra. Serve como foundation para os demais relatórios, contendo as tabelas principais e relacionamentos iniciais.
-## ⚙️ PBI_DAX.pbix
+# ⚙️ PBI_DAX.pbix
 Tipo: Power BI
 Projeto focado exclusivamente em DAX (Data Analysis Expressions). Demonstração prática de medidas, parâmetros e cálculos estatísticos avançados utilizados nos relatórios.
-##📋 Relatorio Completo com tudo.pbix
+#📋 Relatorio Completo com tudo.pbix
 Tipo: Power BI
 Relatório completo que integra todos os dados, visualizações, segmentadores e métricas DAX. Oferece uma visão 360° do negócio, ideal para análises abrangentes.
-## 🎯 Relatorio para decisões gerenciais parametros.pbix
+# 🎯 Relatorio para decisões gerenciais parametros.pbix
 Tipo: Power BI
 Relatório otimizado para tomada de decisão gerencial. Utiliza parâmetros interativos para simulações de cenários e análises dinâmicas, facilitando o suporte estratégico.
-## 🔍 Relatório com Segmentadores Financial Sample.pbix
+# 🔍 Relatório com Segmentadores Financial Sample.pbix
 Tipo: Power BI
 Este projeto consiste em um relatório interativo desenvolvido no Power BI, utilizando o famoso dataset Financial Sample, fornecido como exemplo para análises financeiras e práticas de visualização.
 
@@ -103,9 +104,9 @@ Power BI Desktop
 4. **Design com Proporção Áurea** – Espaçamento, alinhamento e proporção dos visuais seguem a regra de ouro para maior harmonia visual
 5. **Interatividade** – Segmentadores, botões de navegação e tooltips personalizados para facilitar a experiência do usuário final (gestores)
 
-## 🌟 Contribuição em Projeto Open Source
 
-### Contribuição no Projeto Open Source da Elidiana (DIO)
+
+# Contribuição no Projeto Open Source da Elidiana (DIO)
 
 Além dos projetos deste repositório, realizei uma **contribuição aleatória** em um projeto open source liderado pela **Elidiana** na plataforma **DIO**.
 
@@ -142,13 +143,11 @@ Masterpiece, best possible quality, photorealistic, hyperrealistic, zero artifac
 #### Prompt: I want you create a video that have i very stronger, and this video needs to be very ultra realistic, a want a video that have i doing a biceps curl, and a having a smart, i want to in this video a women in my right side, needs to bem very realistic, she have black clothes, have bangs and glasses.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após escolher a imagem da vez, foi necessário que eu desenvolvesse um Prompt através da Engenharia de Prompt para passar para a inteligência artificial refinasse e fizesse oque eu queria baseado no que foi pedido, após isso, foi repassado para um Text to Image e para finalizar com o Output do Text to Image foi repassado para uma IA Image to Video
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+# Projetos Py
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
 ---
 
 ## 📬 Contato
